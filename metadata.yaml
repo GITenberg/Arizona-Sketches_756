@@ -1,0 +1,29 @@
+_repo: Arizona-Sketches_756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Munk, J. A. (Joseph Amasa)
+    alias: Munk, Joseph Amasa
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '394'
+    url: http://www.gutenberg.org/2009/agents/394
+description: ''
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Arizona'
+- GITenberg
+tableOfContents: A romantic land -- My first trip to Arizona -- The open range --
+  Ranch life -- The round-up -- Ranch happenings -- A model ranch -- Some desert plants
+  -- Hooker's hot springs -- Cañon echoes -- The Meteorite mountain -- The cliff dwellers
+  -- The Moqui Indians -- A fine climate.
+title: Arizona Sketches
+url: http://www.gutenberg.org/ebooks/756
